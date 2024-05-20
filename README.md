@@ -1,5 +1,7 @@
 # Dodge the Obstacles
 
+![Game](data/game_screenshot.jpeg)
+
 ## Overview
 "Dodge the Obstacles" is a simple 2D arcade-style game where the player controls a character to avoid falling obstacles and score points by shooting them. The game is built using the Pygame library in Python.
 
